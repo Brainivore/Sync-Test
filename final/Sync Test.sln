@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5BE2B804-6639-FB33-47B1-CA9960062FA9}") = "Sync Test", "Assembly-CSharp.csproj", "{279BBE12-BEDA-AB1B-BCC2-13BF9FEEFFD6}"
+EndProject
+Project("{5BE2B804-6639-FB33-47B1-CA9960062FA9}") = "Sync Test", "Assembly-CSharp-Editor.csproj", "{FCF8DD7A-8FAF-D914-D408-CFBAE094E2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279BBE12-BEDA-AB1B-BCC2-13BF9FEEFFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279BBE12-BEDA-AB1B-BCC2-13BF9FEEFFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279BBE12-BEDA-AB1B-BCC2-13BF9FEEFFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279BBE12-BEDA-AB1B-BCC2-13BF9FEEFFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF8DD7A-8FAF-D914-D408-CFBAE094E2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF8DD7A-8FAF-D914-D408-CFBAE094E2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF8DD7A-8FAF-D914-D408-CFBAE094E2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF8DD7A-8FAF-D914-D408-CFBAE094E2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
